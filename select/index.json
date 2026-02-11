@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヒア・ウィズ・ミー",
+  "base_artist": "デイヴィッド",
+  "createdAt": "2026-02-11T12:28:15.986753Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Here With Me",
+      "artist": "d4vd",
+      "has_synced": false,
+      "path": "select/pl_01_Here_With_Me_d4vd.txt"
+    }
+  ]
+}
